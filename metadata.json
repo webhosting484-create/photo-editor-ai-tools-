@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Sky - Anime Photo to Video Animator",
+  "description": "Transform aesthetic photos into living cinematic videos with procedural rain, water ripples, glowing headlight effects, generative lo-fi soundscapes, and instant video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
